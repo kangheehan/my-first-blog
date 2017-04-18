@@ -25,7 +25,7 @@ SECRET_KEY = 'a86#v(fo1^oa1$%$uygcwky3^k$9#^@d732@pnava+vv2)qx+z'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['localhost', '127.0.0.1', 'kanghee.pythonanywhere.com']
 
 
 # Application definition
